@@ -1,0 +1,14 @@
+D:\GitHub\una-lista-06-csharp\bin\Debug\net7.0\una-lista-06-csharp.exe
+D:\GitHub\una-lista-06-csharp\bin\Debug\net7.0\una-lista-06-csharp.deps.json
+D:\GitHub\una-lista-06-csharp\bin\Debug\net7.0\una-lista-06-csharp.runtimeconfig.json
+D:\GitHub\una-lista-06-csharp\bin\Debug\net7.0\una-lista-06-csharp.dll
+D:\GitHub\una-lista-06-csharp\bin\Debug\net7.0\una-lista-06-csharp.pdb
+D:\GitHub\una-lista-06-csharp\obj\Debug\net7.0\una-lista-06-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\una-lista-06-csharp\obj\Debug\net7.0\una-lista-06-csharp.AssemblyInfoInputs.cache
+D:\GitHub\una-lista-06-csharp\obj\Debug\net7.0\una-lista-06-csharp.AssemblyInfo.cs
+D:\GitHub\una-lista-06-csharp\obj\Debug\net7.0\una-lista-06-csharp.csproj.CoreCompileInputs.cache
+D:\GitHub\una-lista-06-csharp\obj\Debug\net7.0\una-lista-06-csharp.dll
+D:\GitHub\una-lista-06-csharp\obj\Debug\net7.0\refint\una-lista-06-csharp.dll
+D:\GitHub\una-lista-06-csharp\obj\Debug\net7.0\una-lista-06-csharp.pdb
+D:\GitHub\una-lista-06-csharp\obj\Debug\net7.0\una-lista-06-csharp.genruntimeconfig.cache
+D:\GitHub\una-lista-06-csharp\obj\Debug\net7.0\ref\una-lista-06-csharp.dll
